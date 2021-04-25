@@ -1,7 +1,7 @@
-package calcS;
+package ui2;
 
 
-public class SumSimples {
+public class SumSimple {
     
        
     private String name;
